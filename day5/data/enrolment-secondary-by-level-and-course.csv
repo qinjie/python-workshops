@@ -1,0 +1,596 @@
+year,level,course,enrolment_secondary
+1980,Secondary 1,Special,1511
+1980,Secondary 1,Express,45489
+1980,Secondary 1,Normal (Acad),0
+1980,Secondary 1,Normal (Tech),0
+1980,Secondary 2,Special,1737
+1980,Secondary 2,Express,39068
+1980,Secondary 2,Normal (Acad),0
+1980,Secondary 2,Normal (Tech),0
+1980,Secondary 3,Special,0
+1980,Secondary 3,Express,34803
+1980,Secondary 3,Normal (Acad),0
+1980,Secondary 3,Normal (Tech),0
+1980,Secondary 4,Special,0
+1980,Secondary 4,Express,32925
+1980,Secondary 4,Normal (Acad),0
+1980,Secondary 4,Normal (Tech),0
+1980,Secondary 5,Normal (Acad),0
+1981,Secondary 1,Special,1616
+1981,Secondary 1,Express,29691
+1981,Secondary 1,Normal (Acad),16278
+1981,Secondary 1,Normal (Tech),0
+1981,Secondary 2,Special,1561
+1981,Secondary 2,Express,38149
+1981,Secondary 2,Normal (Acad),0
+1981,Secondary 2,Normal (Tech),0
+1981,Secondary 3,Special,1558
+1981,Secondary 3,Express,34523
+1981,Secondary 3,Normal (Acad),0
+1981,Secondary 3,Normal (Tech),0
+1981,Secondary 4,Special,0
+1981,Secondary 4,Express,33931
+1981,Secondary 4,Normal (Acad),0
+1981,Secondary 4,Normal (Tech),0
+1981,Secondary 5,Normal (Acad),0
+1982,Secondary 1,Special,1345
+1982,Secondary 1,Express,18759
+1982,Secondary 1,Normal (Acad),18893
+1982,Secondary 1,Normal (Tech),0
+1982,Secondary 2,Special,1680
+1982,Secondary 2,Express,30588
+1982,Secondary 2,Normal (Acad),12741
+1982,Secondary 2,Normal (Tech),0
+1982,Secondary 3,Special,1620
+1982,Secondary 3,Express,35375
+1982,Secondary 3,Normal (Acad),0
+1982,Secondary 3,Normal (Tech),0
+1982,Secondary 4,Special,1474
+1982,Secondary 4,Express,33938
+1982,Secondary 4,Normal (Acad),0
+1982,Secondary 4,Normal (Tech),0
+1982,Secondary 5,Normal (Acad),0
+1983,Secondary 1,Special,1194
+1983,Secondary 1,Express,21007
+1983,Secondary 1,Normal (Acad),15445
+1983,Secondary 1,Normal (Tech),0
+1983,Secondary 2,Special,1422
+1983,Secondary 2,Express,19130
+1983,Secondary 2,Normal (Acad),17950
+1983,Secondary 2,Normal (Tech),0
+1983,Secondary 3,Special,1814
+1983,Secondary 3,Express,29852
+1983,Secondary 3,Normal (Acad),13867
+1983,Secondary 3,Normal (Tech),0
+1983,Secondary 4,Special,1559
+1983,Secondary 4,Express,38023
+1983,Secondary 4,Normal (Acad),0
+1983,Secondary 4,Normal (Tech),0
+1983,Secondary 5,Normal (Acad),0
+1984,Secondary 1,Special,1675
+1984,Secondary 1,Express,21287
+1984,Secondary 1,Normal (Acad),14599
+1984,Secondary 1,Normal (Tech),0
+1984,Secondary 2,Special,1316
+1984,Secondary 2,Express,22583
+1984,Secondary 2,Normal (Acad),14481
+1984,Secondary 2,Normal (Tech),0
+1984,Secondary 3,Special,1481
+1984,Secondary 3,Express,20551
+1984,Secondary 3,Normal (Acad),16954
+1984,Secondary 3,Normal (Tech),0
+1984,Secondary 4,Special,1770
+1984,Secondary 4,Express,33352
+1984,Secondary 4,Normal (Acad),14325
+1984,Secondary 4,Normal (Tech),0
+1984,Secondary 5,Normal (Acad),0
+1985,Secondary 1,Special,2120
+1985,Secondary 1,Express,24284
+1985,Secondary 1,Normal (Acad),15793
+1985,Secondary 1,Normal (Tech),0
+1985,Secondary 2,Special,1757
+1985,Secondary 2,Express,22307
+1985,Secondary 2,Normal (Acad),13352
+1985,Secondary 2,Normal (Tech),0
+1985,Secondary 3,Special,1316
+1985,Secondary 3,Express,22923
+1985,Secondary 3,Normal (Acad),13930
+1985,Secondary 3,Normal (Tech),0
+1985,Secondary 4,Special,1454
+1985,Secondary 4,Express,23821
+1985,Secondary 4,Normal (Acad),16593
+1985,Secondary 4,Normal (Tech),0
+1985,Secondary 5,Normal (Acad),3940
+1986,Secondary 1,Special,2183
+1986,Secondary 1,Express,23398
+1986,Secondary 1,Normal (Acad),15670
+1986,Secondary 1,Normal (Tech),0
+1986,Secondary 2,Special,2190
+1986,Secondary 2,Express,25106
+1986,Secondary 2,Normal (Acad),14561
+1986,Secondary 2,Normal (Tech),0
+1986,Secondary 3,Special,1807
+1986,Secondary 3,Express,22816
+1986,Secondary 3,Normal (Acad),12836
+1986,Secondary 3,Normal (Tech),0
+1986,Secondary 4,Special,1305
+1986,Secondary 4,Express,24330
+1986,Secondary 4,Normal (Acad),14116
+1986,Secondary 4,Normal (Tech),0
+1986,Secondary 5,Normal (Acad),13220
+1987,Secondary 1,Special,2169
+1987,Secondary 1,Express,22370
+1987,Secondary 1,Normal (Acad),14448
+1987,Secondary 1,Normal (Tech),0
+1987,Secondary 2,Special,2203
+1987,Secondary 2,Express,24238
+1987,Secondary 2,Normal (Acad),14396
+1987,Secondary 2,Normal (Tech),0
+1987,Secondary 3,Special,2194
+1987,Secondary 3,Express,25340
+1987,Secondary 3,Normal (Acad),14194
+1987,Secondary 3,Normal (Tech),0
+1987,Secondary 4,Special,1791
+1987,Secondary 4,Express,24134
+1987,Secondary 4,Normal (Acad),12985
+1987,Secondary 4,Normal (Tech),0
+1987,Secondary 5,Normal (Acad),11155
+1988,Secondary 1,Special,2205
+1988,Secondary 1,Express,20599
+1988,Secondary 1,Normal (Acad),13916
+1988,Secondary 1,Normal (Tech),0
+1988,Secondary 2,Special,2197
+1988,Secondary 2,Express,23144
+1988,Secondary 2,Normal (Acad),13462
+1988,Secondary 2,Normal (Tech),0
+1988,Secondary 3,Special,2234
+1988,Secondary 3,Express,24656
+1988,Secondary 3,Normal (Acad),13840
+1988,Secondary 3,Normal (Tech),0
+1988,Secondary 4,Special,2159
+1988,Secondary 4,Express,25393
+1988,Secondary 4,Normal (Acad),13949
+1988,Secondary 4,Normal (Tech),0
+1988,Secondary 5,Normal (Acad),10349
+1989,Secondary 1,Special,2227
+1989,Secondary 1,Express,21385
+1989,Secondary 1,Normal (Acad),14419
+1989,Secondary 1,Normal (Tech),0
+1989,Secondary 2,Special,2185
+1989,Secondary 2,Express,21256
+1989,Secondary 2,Normal (Acad),12939
+1989,Secondary 2,Normal (Tech),0
+1989,Secondary 3,Special,2192
+1989,Secondary 3,Express,23453
+1989,Secondary 3,Normal (Acad),13204
+1989,Secondary 3,Normal (Tech),0
+1989,Secondary 4,Special,2204
+1989,Secondary 4,Express,25141
+1989,Secondary 4,Normal (Acad),13762
+1989,Secondary 4,Normal (Tech),0
+1989,Secondary 5,Normal (Acad),11462
+1990,Secondary 1,Special,2354
+1990,Secondary 1,Express,20113
+1990,Secondary 1,Normal (Acad),13292
+1990,Secondary 1,Normal (Tech),0
+1990,Secondary 2,Special,2278
+1990,Secondary 2,Express,22336
+1990,Secondary 2,Normal (Acad),13167
+1990,Secondary 2,Normal (Tech),0
+1990,Secondary 3,Special,2228
+1990,Secondary 3,Express,21503
+1990,Secondary 3,Normal (Acad),12623
+1990,Secondary 3,Normal (Tech),0
+1990,Secondary 4,Special,2167
+1990,Secondary 4,Express,23733
+1990,Secondary 4,Normal (Acad),13197
+1990,Secondary 4,Normal (Tech),0
+1990,Secondary 5,Normal (Acad),11551
+1991,Secondary 1,Special,2384
+1991,Secondary 1,Express,19218
+1991,Secondary 1,Normal (Acad),13559
+1991,Secondary 1,Normal (Tech),0
+1991,Secondary 2,Special,2441
+1991,Secondary 2,Express,20686
+1991,Secondary 2,Normal (Acad),12542
+1991,Secondary 2,Normal (Tech),0
+1991,Secondary 3,Special,2354
+1991,Secondary 3,Express,22718
+1991,Secondary 3,Normal (Acad),12964
+1991,Secondary 3,Normal (Tech),0
+1991,Secondary 4,Special,2213
+1991,Secondary 4,Express,22035
+1991,Secondary 4,Normal (Acad),12306
+1991,Secondary 4,Normal (Tech),0
+1991,Secondary 5,Normal (Acad),11326
+1992,Secondary 1,Special,2519
+1992,Secondary 1,Express,19989
+1992,Secondary 1,Normal (Acad),13997
+1992,Secondary 1,Normal (Tech),0
+1992,Secondary 2,Special,2424
+1992,Secondary 2,Express,20521
+1992,Secondary 2,Normal (Acad),12240
+1992,Secondary 2,Normal (Tech),0
+1992,Secondary 3,Special,2550
+1992,Secondary 3,Express,20995
+1992,Secondary 3,Normal (Acad),12222
+1992,Secondary 3,Normal (Tech),0
+1992,Secondary 4,Special,2316
+1992,Secondary 4,Express,22807
+1992,Secondary 4,Normal (Acad),12761
+1992,Secondary 4,Normal (Tech),0
+1992,Secondary 5,Normal (Acad),10491
+1993,Secondary 1,Special,2739
+1993,Secondary 1,Express,20729
+1993,Secondary 1,Normal (Acad),13212
+1993,Secondary 1,Normal (Tech),0
+1993,Secondary 2,Special,2682
+1993,Secondary 2,Express,20716
+1993,Secondary 2,Normal (Acad),13038
+1993,Secondary 2,Normal (Tech),0
+1993,Secondary 3,Special,2515
+1993,Secondary 3,Express,21020
+1993,Secondary 3,Normal (Acad),12193
+1993,Secondary 3,Normal (Tech),0
+1993,Secondary 4,Special,2582
+1993,Secondary 4,Express,20877
+1993,Secondary 4,Normal (Acad),11847
+1993,Secondary 4,Normal (Tech),0
+1993,Secondary 5,Normal (Acad),11146
+1994,Secondary 1,Special,3671
+1994,Secondary 1,Express,25265
+1994,Secondary 1,Normal (Acad),17063
+1994,Secondary 1,Normal (Tech),8588
+1994,Secondary 2,Special,2873
+1994,Secondary 2,Express,21433
+1994,Secondary 2,Normal (Acad),12470
+1994,Secondary 2,Normal (Tech),0
+1994,Secondary 3,Special,2805
+1994,Secondary 3,Express,21116
+1994,Secondary 3,Normal (Acad),13049
+1994,Secondary 3,Normal (Tech),0
+1994,Secondary 4,Special,2480
+1994,Secondary 4,Express,20935
+1994,Secondary 4,Normal (Acad),12018
+1994,Secondary 4,Normal (Tech),0
+1994,Secondary 5,Normal (Acad),10168
+1995,Secondary 1,Special,4127
+1995,Secondary 1,Express,22128
+1995,Secondary 1,Normal (Acad),9985
+1995,Secondary 1,Normal (Tech),7260
+1995,Secondary 2,Special,3527
+1995,Secondary 2,Express,25326
+1995,Secondary 2,Normal (Acad),17173
+1995,Secondary 2,Normal (Tech),7942
+1995,Secondary 3,Special,2937
+1995,Secondary 3,Express,21835
+1995,Secondary 3,Normal (Acad),12594
+1995,Secondary 3,Normal (Tech),0
+1995,Secondary 4,Special,2753
+1995,Secondary 4,Express,20670
+1995,Secondary 4,Normal (Acad),12815
+1995,Secondary 4,Normal (Tech),0
+1995,Secondary 5,Normal (Acad),9910
+1996,Secondary 1,Special,4009
+1996,Secondary 1,Express,21273
+1996,Secondary 1,Normal (Acad),8917
+1996,Secondary 1,Normal (Tech),6630
+1996,Secondary 2,Special,4137
+1996,Secondary 2,Express,22287
+1996,Secondary 2,Normal (Acad),10591
+1996,Secondary 2,Normal (Tech),6606
+1996,Secondary 3,Special,3528
+1996,Secondary 3,Express,25495
+1996,Secondary 3,Normal (Acad),16739
+1996,Secondary 3,Normal (Tech),7281
+1996,Secondary 4,Special,2782
+1996,Secondary 4,Express,21217
+1996,Secondary 4,Normal (Acad),12075
+1996,Secondary 4,Normal (Tech),0
+1996,Secondary 5,Normal (Acad),10333
+1997,Secondary 1,Special,4020
+1997,Secondary 1,Express,21316
+1997,Secondary 1,Normal (Acad),9354
+1997,Secondary 1,Normal (Tech),6922
+1997,Secondary 2,Special,3841
+1997,Secondary 2,Express,21569
+1997,Secondary 2,Normal (Acad),9429
+1997,Secondary 2,Normal (Tech),6051
+1997,Secondary 3,Special,3847
+1997,Secondary 3,Express,23370
+1997,Secondary 3,Normal (Acad),10889
+1997,Secondary 3,Normal (Tech),6235
+1997,Secondary 4,Special,3279
+1997,Secondary 4,Express,24349
+1997,Secondary 4,Normal (Acad),15877
+1997,Secondary 4,Normal (Tech),6729
+1997,Secondary 5,Normal (Acad),9675
+1998,Secondary 1,Special,4247
+1998,Secondary 1,Express,21506
+1998,Secondary 1,Normal (Acad),9665
+1998,Secondary 1,Normal (Tech),6781
+1998,Secondary 2,Special,4062
+1998,Secondary 2,Express,21287
+1998,Secondary 2,Normal (Acad),9857
+1998,Secondary 2,Normal (Tech),6272
+1998,Secondary 3,Special,3822
+1998,Secondary 3,Express,22111
+1998,Secondary 3,Normal (Acad),9900
+1998,Secondary 3,Normal (Tech),5684
+1998,Secondary 4,Special,3691
+1998,Secondary 4,Express,22183
+1998,Secondary 4,Normal (Acad),10723
+1998,Secondary 4,Normal (Tech),5666
+1998,Secondary 5,Normal (Acad),10439
+1999,Secondary 1,Special,3748
+1999,Secondary 1,Express,19947
+1999,Secondary 1,Normal (Acad),8899
+1999,Secondary 1,Normal (Tech),6277
+1999,Secondary 2,Special,4150
+1999,Secondary 2,Express,21839
+1999,Secondary 2,Normal (Acad),10167
+1999,Secondary 2,Normal (Tech),6255
+1999,Secondary 3,Special,4302
+1999,Secondary 3,Express,22146
+1999,Secondary 3,Normal (Acad),10455
+1999,Secondary 3,Normal (Tech),6003
+1999,Secondary 4,Special,3659
+1999,Secondary 4,Express,21276
+1999,Secondary 4,Normal (Acad),9580
+1999,Secondary 4,Normal (Tech),5328
+1999,Secondary 5,Normal (Acad),8228
+2000,Secondary 1,Special,4182
+2000,Secondary 1,Express,22585
+2000,Secondary 1,Normal (Acad),9855
+2000,Secondary 1,Normal (Tech),7795
+2000,Secondary 2,Special,3766
+2000,Secondary 2,Express,19939
+2000,Secondary 2,Normal (Acad),9472
+2000,Secondary 2,Normal (Tech),5808
+2000,Secondary 3,Special,4329
+2000,Secondary 3,Express,22573
+2000,Secondary 3,Normal (Acad),10609
+2000,Secondary 3,Normal (Tech),5975
+2000,Secondary 4,Special,4100
+2000,Secondary 4,Express,21299
+2000,Secondary 4,Normal (Acad),10058
+2000,Secondary 4,Normal (Tech),5654
+2000,Secondary 5,Normal (Acad),7406
+2001,Secondary 1,Special,5175
+2001,Secondary 1,Express,27633
+2001,Secondary 1,Normal (Acad),11983
+2001,Secondary 1,Normal (Tech),8279
+2001,Secondary 2,Special,4149
+2001,Secondary 2,Express,22569
+2001,Secondary 2,Normal (Acad),10590
+2001,Secondary 2,Normal (Tech),7174
+2001,Secondary 3,Special,3917
+2001,Secondary 3,Express,20400
+2001,Secondary 3,Normal (Acad),10119
+2001,Secondary 3,Normal (Tech),5627
+2001,Secondary 4,Special,4011
+2001,Secondary 4,Express,21744
+2001,Secondary 4,Normal (Acad),10258
+2001,Secondary 4,Normal (Tech),5565
+2001,Secondary 5,Normal (Acad),7888
+2002,Secondary 1,Special,4469
+2002,Secondary 1,Express,26354
+2002,Secondary 1,Normal (Acad),10992
+2002,Secondary 1,Normal (Tech),7466
+2002,Secondary 2,Special,5071
+2002,Secondary 2,Express,27628
+2002,Secondary 2,Normal (Acad),12729
+2002,Secondary 2,Normal (Tech),7783
+2002,Secondary 3,Special,4229
+2002,Secondary 3,Express,23156
+2002,Secondary 3,Normal (Acad),11242
+2002,Secondary 3,Normal (Tech),6902
+2002,Secondary 4,Special,3614
+2002,Secondary 4,Express,19308
+2002,Secondary 4,Normal (Acad),9624
+2002,Secondary 4,Normal (Tech),5303
+2002,Secondary 5,Normal (Acad),8132
+2003,Secondary 1,Special,4565
+2003,Secondary 1,Express,28286
+2003,Secondary 1,Normal (Acad),12534
+2003,Secondary 1,Normal (Tech),6599
+2003,Secondary 2,Special,4408
+2003,Secondary 2,Express,26029
+2003,Secondary 2,Normal (Acad),11747
+2003,Secondary 2,Normal (Tech),7151
+2003,Secondary 3,Special,5137
+2003,Secondary 3,Express,28325
+2003,Secondary 3,Normal (Acad),13572
+2003,Secondary 3,Normal (Tech),7574
+2003,Secondary 4,Special,3955
+2003,Secondary 4,Express,22140
+2003,Secondary 4,Normal (Acad),10610
+2003,Secondary 4,Normal (Tech),6502
+2003,Secondary 5,Normal (Acad),7292
+2004,Secondary 1,Special,4696
+2004,Secondary 1,Express,26856
+2004,Secondary 1,Normal (Acad),11596
+2004,Secondary 1,Normal (Tech),7310
+2004,Secondary 2,Special,4541
+2004,Secondary 2,Express,28001
+2004,Secondary 2,Normal (Acad),13257
+2004,Secondary 2,Normal (Tech),6325
+2004,Secondary 3,Special,4638
+2004,Secondary 3,Express,26538
+2004,Secondary 3,Normal (Acad),12941
+2004,Secondary 3,Normal (Tech),6893
+2004,Secondary 4,Special,4688
+2004,Secondary 4,Express,27285
+2004,Secondary 4,Normal (Acad),12636
+2004,Secondary 4,Normal (Tech),7239
+2004,Secondary 5,Normal (Acad),8094
+2005,Secondary 1,Special,4379
+2005,Secondary 1,Express,26514
+2005,Secondary 1,Normal (Acad),12468
+2005,Secondary 1,Normal (Tech),6869
+2005,Secondary 2,Special,4745
+2005,Secondary 2,Express,26768
+2005,Secondary 2,Normal (Acad),12357
+2005,Secondary 2,Normal (Tech),6986
+2005,Secondary 3,Special,4995
+2005,Secondary 3,Express,28493
+2005,Secondary 3,Normal (Acad),14329
+2005,Secondary 3,Normal (Tech),6093
+2005,Secondary 4,Special,4370
+2005,Secondary 4,Express,25542
+2005,Secondary 4,Normal (Acad),12014
+2005,Secondary 4,Normal (Tech),6536
+2005,Secondary 5,Normal (Acad),9605
+2006,Secondary 1,Special,4262
+2006,Secondary 1,Express,26973
+2006,Secondary 1,Normal (Acad),12419
+2006,Secondary 1,Normal (Tech),7118
+2006,Secondary 2,Special,4316
+2006,Secondary 2,Express,26747
+2006,Secondary 2,Normal (Acad),13191
+2006,Secondary 2,Normal (Tech),6553
+2006,Secondary 3,Special,5155
+2006,Secondary 3,Express,27541
+2006,Secondary 3,Normal (Acad),13557
+2006,Secondary 3,Normal (Tech),6774
+2006,Secondary 4,Special,4764
+2006,Secondary 4,Express,27503
+2006,Secondary 4,Normal (Acad),13377
+2006,Secondary 4,Normal (Tech),5819
+2006,Secondary 5,Normal (Acad),9028
+2007,Secondary 1,Special,4238
+2007,Secondary 1,Express,27396
+2007,Secondary 1,Normal (Acad),11981
+2007,Secondary 1,Normal (Tech),7072
+2007,Secondary 2,Special,4277
+2007,Secondary 2,Express,27473
+2007,Secondary 2,Normal (Acad),13282
+2007,Secondary 2,Normal (Tech),6994
+2007,Secondary 3,Special,4818
+2007,Secondary 3,Express,27856
+2007,Secondary 3,Normal (Acad),14386
+2007,Secondary 3,Normal (Tech),6600
+2007,Secondary 4,Special,4894
+2007,Secondary 4,Express,26771
+2007,Secondary 4,Normal (Acad),13072
+2007,Secondary 4,Normal (Tech),6788
+2007,Secondary 5,Normal (Acad),10164
+2008,Secondary 1,Special,0
+2008,Secondary 1,Express,30873
+2008,Secondary 1,Normal (Acad),12811
+2008,Secondary 1,Normal (Tech),6530
+2008,Secondary 2,Special,4156
+2008,Secondary 2,Express,27781
+2008,Secondary 2,Normal (Acad),12879
+2008,Secondary 2,Normal (Tech),7014
+2008,Secondary 3,Special,4751
+2008,Secondary 3,Express,28456
+2008,Secondary 3,Normal (Acad),14481
+2008,Secondary 3,Normal (Tech),6869
+2008,Secondary 4,Special,4629
+2008,Secondary 4,Express,26648
+2008,Secondary 4,Normal (Acad),13333
+2008,Secondary 4,Normal (Tech),6309
+2008,Secondary 5,Normal (Acad),9561
+2009,Secondary 1,Special,0
+2009,Secondary 1,Express,30808
+2009,Secondary 1,Normal (Acad),12489
+2009,Secondary 1,Normal (Tech),6786
+2009,Secondary 2,Special,0
+2009,Secondary 2,Express,31159
+2009,Secondary 2,Normal (Acad),13445
+2009,Secondary 2,Normal (Tech),6439
+2009,Secondary 3,Special,4626
+2009,Secondary 3,Express,28959
+2009,Secondary 3,Normal (Acad),13932
+2009,Secondary 3,Normal (Tech),6923
+2009,Secondary 4,Special,4535
+2009,Secondary 4,Express,27488
+2009,Secondary 4,Normal (Acad),13479
+2009,Secondary 4,Normal (Tech),6684
+2009,Secondary 5,Normal (Acad),9478
+2010,Secondary 1,Special,0
+2010,Secondary 1,Express,29785
+2010,Secondary 1,Normal (Acad),12394
+2010,Secondary 1,Normal (Tech),6491
+2010,Secondary 2,Special,0
+2010,Secondary 2,Express,31296
+2010,Secondary 2,Normal (Acad),12978
+2010,Secondary 2,Normal (Tech),6661
+2010,Secondary 3,Special,0
+2010,Secondary 3,Express,32933
+2010,Secondary 3,Normal (Acad),14048
+2010,Secondary 3,Normal (Tech),6197
+2010,Secondary 4,Special,4053
+2010,Secondary 4,Express,28356
+2010,Secondary 4,Normal (Acad),13003
+2010,Secondary 4,Normal (Tech),6661
+2010,Secondary 5,Normal (Acad),9532
+2011,Secondary 1,Special,0
+2011,Secondary 1,Express,27732
+2011,Secondary 1,Normal (Acad),11436
+2011,Secondary 1,Normal (Tech),6045
+2011,Secondary 2,Special,0
+2011,Secondary 2,Express,30226
+2011,Secondary 2,Normal (Acad),12882
+2011,Secondary 2,Normal (Tech),6248
+2011,Secondary 3,Special,0
+2011,Secondary 3,Express,32869
+2011,Secondary 3,Normal (Acad),13579
+2011,Secondary 3,Normal (Tech),6513
+2011,Secondary 4,Special,0
+2011,Secondary 4,Express,31984
+2011,Secondary 4,Normal (Acad),13307
+2011,Secondary 4,Normal (Tech),5972
+2011,Secondary 5,Normal (Acad),9181
+2012,Secondary 1,Special,0
+2012,Secondary 1,Express,27293
+2012,Secondary 1,Normal (Acad),11848
+2012,Secondary 1,Normal (Tech),6057
+2012,Secondary 2,Special,0
+2012,Secondary 2,Express,28038
+2012,Secondary 2,Normal (Acad),11825
+2012,Secondary 2,Normal (Tech),5842
+2012,Secondary 3,Special,0
+2012,Secondary 3,Express,31387
+2012,Secondary 3,Normal (Acad),13324
+2012,Secondary 3,Normal (Tech),6084
+2012,Secondary 4,Special,0
+2012,Secondary 4,Express,32011
+2012,Secondary 4,Normal (Acad),13084
+2012,Secondary 4,Normal (Tech),6230
+2012,Secondary 5,Normal (Acad),9497
+2013,Secondary 1,Special,0
+2013,Secondary 1,Express,28870
+2013,Secondary 1,Normal (Acad),12747
+2013,Secondary 1,Normal (Tech),6477
+2013,Secondary 2,Special,0
+2013,Secondary 2,Express,27671
+2013,Secondary 2,Normal (Acad),12132
+2013,Secondary 2,Normal (Tech),5745
+2013,Secondary 3,Special,0
+2013,Secondary 3,Express,28897
+2013,Secondary 3,Normal (Acad),12144
+2013,Secondary 3,Normal (Tech),5674
+2013,Secondary 4,Special,0
+2013,Secondary 4,Express,30585
+2013,Secondary 4,Normal (Acad),12776
+2013,Secondary 4,Normal (Tech),5829
+2013,Secondary 5,Normal (Acad),7618
+2014,Secondary 1,Special,0
+2014,Secondary 1,Express,27490
+2014,Secondary 1,Normal (Acad),9873
+2014,Secondary 1,Normal (Tech),5606
+2014,Secondary 2,Special,0
+2014,Secondary 2,Express,29241
+2014,Secondary 2,Normal (Acad),12973
+2014,Secondary 2,Normal (Tech),6114
+2014,Secondary 3,Special,0
+2014,Secondary 3,Express,28619
+2014,Secondary 3,Normal (Acad),12447
+2014,Secondary 3,Normal (Tech),5646
+2014,Secondary 4,Special,0
+2014,Secondary 4,Express,28293
+2014,Secondary 4,Normal (Acad),11446
+2014,Secondary 4,Normal (Tech),5444
+2014,Secondary 5,Normal (Acad),6915

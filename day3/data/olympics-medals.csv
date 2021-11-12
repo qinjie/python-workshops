@@ -1,0 +1,415 @@
+NOC,Country,Total,Medal
+USA,United States,2088,Gold
+URS,Soviet Union,838,Gold
+GBR,United Kingdom,498,Gold
+FRA,France,378,Gold
+GER,Germany,407,Gold
+AUS,Australia,293,Gold
+ITA,Italy,460,Gold
+HUN,Hungary,400,Gold
+SWE,Sweden,347,Gold
+NED,Netherlands,212,Gold
+ROU,Romania,155,Gold
+JPN,Japan,206,Gold
+RUS,Russia,192,Gold
+CAN,Canada,154,Gold
+GDR,East Germany,329,Gold
+POL,Poland,103,Gold
+FIN,Finland,124,Gold
+CHN,China,234,Gold
+FRG,West Germany,143,Gold
+BRA,Brazil,59,Gold
+DEN,Denmark,147,Gold
+BEL,Belgium,91,Gold
+NOR,Norway,194,Gold
+SUI,Switzerland,73,Gold
+BUL,Bulgaria,53,Gold
+KOR,Korea South,140,Gold
+YUG,Yugoslavia,143,Gold
+CUB,Cuba,160,Gold
+TCH,Czechoslovakia,80,Gold
+ESP,Spain,92,Gold
+EUA,Unified team of Germany,68,Gold
+ARG,Argentina,68,Gold
+UKR,Ukraine,32,Gold
+EUN,Unified team,92,Gold
+NZL,New Zealand,76,Gold
+BLR,Belarus,14,Gold
+GRE,Greece,34,Gold
+MEX,Mexico,14,Gold
+AUT,Austria,21,Gold
+LTU,Lithuania,4,Gold
+JAM,Jamaica,23,Gold
+RSA,South Africa,24,Gold
+PAK,Pakistan,42,Gold
+IND,India,128,Gold
+PRK,Korea North,10,Gold
+URU,Uruguay,44,Gold
+NGR,Nigeria,19,Gold
+KEN,Kenya,26,Gold
+TUR,Turkey,37,Gold
+IRI,Iran,11,Gold
+CHI,Chile,3,Gold
+EST,Estonia,9,Gold
+CRO,Croatia,31,Gold
+POR,Portugal,4,Gold
+GHA,Ghana,,Gold
+KAZ,Kazakhstan,9,Gold
+ETH,Ethiopia,18,Gold
+SRB,Serbia,,Gold
+TPE,Taiwan,2,Gold
+CZE,Czech Republic,10,Gold
+INA,Indonesia,9,Gold
+TRI,Trinidad and Tobago,1,Gold
+SLO,Slovenia,4,Gold
+GEO,Georgia,5,Gold
+ZZX,Mixed teams,23,Gold
+EGY,Egypt,7,Gold
+MGL,Mongolia,2,Gold
+MAR,Morocco,6,Gold
+THA,Thailand,7,Gold
+RU1,0,1,Gold
+AZE,Azerbaijan,4,Gold
+SVK,Slovakia,10,Gold
+IRL,Ireland,8,Gold
+UZB,Uzbekistan,4,Gold
+ALG,Algeria,4,Gold
+VEN,Venezuela,1,Gold
+COL,Colombia,1,Gold
+PHI,Philippines,,Gold
+ARM,Armenia,1,Gold
+HAI,Haiti,,Gold
+BOH,Bohemia,,Gold
+BAH,Bahamas,9,Gold
+ANZ,Australasia,20,Gold
+ISR,Israel,1,Gold
+PUR,Puerto Rico*,,Gold
+BWI,British West Indies,,Gold
+LAT,Latvia,2,Gold
+MAS,Malaysia,,Gold
+MDA,Moldova,,Gold
+TUN,Tunisia,2,Gold
+ISL,Iceland,,Gold
+UGA,Uganda,1,Gold
+LIB,Lebanon,,Gold
+CRC,Costa Rica,1,Gold
+IOP,Independent Olympic Participants (1992),,Gold
+KGZ,Kyrgyzstan,,Gold
+PAN,Panama,1,Gold
+QAT,Qatar,,Gold
+ZIM,Zimbabwe,18,Gold
+CMR,Cameroon,20,Gold
+DOM,Dominican Republic,2,Gold
+SYR,Syria,1,Gold
+KSA,Saudi Arabia,,Gold
+TJK,Tajikistan,,Gold
+ZAM,Zambia,,Gold
+MOZ,Mozambique,1,Gold
+SUR,Suriname,1,Gold
+AFG,Afghanistan,,Gold
+BAR,Barbados,,Gold
+BER,Bermuda*,,Gold
+DJI,Djibouti,,Gold
+ERI,Eritrea,,Gold
+GUY,Guyana,,Gold
+IRQ,Iraq,,Gold
+KUW,Kuwait,,Gold
+MKD,Macedonia,,Gold
+MRI,Mauritius,,Gold
+NIG,Niger,,Gold
+TOG,Togo,,Gold
+PAR,Paraguay,,Gold
+PER,Peru,1,Gold
+SCG,Serbia,,Gold
+NAM,Namibia,,Gold
+SIN,Singapore,,Gold
+HKG,Hong Kong*,1,Gold
+SRI,Sri Lanka,,Gold
+TAN,Tanzania,,Gold
+VIE,Vietnam,,Gold
+ECU,Ecuador,1,Gold
+LUX,Luxembourg,1,Gold
+AHO,Netherlands Antilles*,,Gold
+CIV,Cote d'Ivoire,,Gold
+ISV,Virgin Islands*,,Gold
+SEN,Senegal,,Gold
+SUD,Sudan,,Gold
+TGA,Tonga,,Gold
+BDI,Burundi,1,Gold
+UAE,United Arab Emirates,1,Gold
+USA,United States,1052,Bronze
+URS,Soviet Union,584,Bronze
+GBR,United Kingdom,505,Bronze
+FRA,France,475,Bronze
+GER,Germany,454,Bronze
+AUS,Australia,413,Bronze
+ITA,Italy,374,Bronze
+HUN,Hungary,345,Bronze
+SWE,Sweden,325,Bronze
+NED,Netherlands,320,Bronze
+ROU,Romania,282,Bronze
+JPN,Japan,270,Bronze
+RUS,Russia,240,Bronze
+CAN,Canada,227,Bronze
+GDR,East Germany,225,Bronze
+POL,Poland,223,Bronze
+FIN,Finland,209,Bronze
+CHN,China,193,Bronze
+FRG,West Germany,180,Bronze
+BRA,Brazil,174,Bronze
+DEN,Denmark,152,Bronze
+BEL,Belgium,150,Bronze
+NOR,Norway,144,Bronze
+SUI,Switzerland,138,Bronze
+BUL,Bulgaria,136,Bronze
+KOR,Korea South,135,Bronze
+YUG,Yugoslavia,118,Bronze
+CUB,Cuba,109,Bronze
+TCH,Czechoslovakia,105,Bronze
+ESP,Spain,92,Bronze
+EUA,Unified team of Germany,92,Bronze
+ARG,Argentina,88,Bronze
+UKR,Ukraine,78,Bronze
+EUN,Unified team,66,Bronze
+NZL,New Zealand,61,Bronze
+BLR,Belarus,53,Bronze
+GRE,Greece,49,Bronze
+MEX,Mexico,48,Bronze
+AUT,Austria,44,Bronze
+LTU,Lithuania,42,Bronze
+JAM,Jamaica,39,Bronze
+RSA,South Africa,36,Bronze
+PAK,Pakistan,34,Bronze
+IND,India,34,Bronze
+PRK,Korea North,30,Bronze
+URU,Uruguay,30,Bronze
+NGR,Nigeria,27,Bronze
+KEN,Kenya,24,Bronze
+TUR,Turkey,22,Bronze
+IRI,Iran,22,Bronze
+CHI,Chile,21,Bronze
+EST,Estonia,19,Bronze
+CRO,Croatia,18,Bronze
+POR,Portugal,18,Bronze
+GHA,Ghana,15,Bronze
+KAZ,Kazakhstan,14,Bronze
+ETH,Ethiopia,14,Bronze
+SRB,Serbia,14,Bronze
+TPE,Taiwan,13,Bronze
+CZE,Czech Republic,13,Bronze
+INA,Indonesia,12,Bronze
+TRI,Trinidad and Tobago,11,Bronze
+SLO,Slovenia,11,Bronze
+GEO,Georgia,11,Bronze
+ZZX,Mixed teams,10,Bronze
+EGY,Egypt,10,Bronze
+MGL,Mongolia,10,Bronze
+MAR,Morocco,10,Bronze
+THA,Thailand,10,Bronze
+RU1,0,9,Bronze
+AZE,Azerbaijan,9,Bronze
+SVK,Slovakia,8,Bronze
+IRL,Ireland,8,Bronze
+UZB,Uzbekistan,8,Bronze
+ALG,Algeria,8,Bronze
+VEN,Venezuela,8,Bronze
+COL,Colombia,7,Bronze
+PHI,Philippines,7,Bronze
+ARM,Armenia,7,Bronze
+HAI,Haiti,7,Bronze
+BOH,Bohemia,6,Bronze
+BAH,Bahamas,5,Bronze
+ANZ,Australasia,5,Bronze
+ISR,Israel,5,Bronze
+PUR,Puerto Rico*,5,Bronze
+BWI,British West Indies,5,Bronze
+LAT,Latvia,4,Bronze
+MAS,Malaysia,3,Bronze
+MDA,Moldova,3,Bronze
+TUN,Tunisia,3,Bronze
+ISL,Iceland,2,Bronze
+UGA,Uganda,2,Bronze
+LIB,Lebanon,2,Bronze
+CRC,Costa Rica,2,Bronze
+IOP,Independent Olympic Participants (1992),2,Bronze
+KGZ,Kyrgyzstan,2,Bronze
+PAN,Panama,2,Bronze
+QAT,Qatar,2,Bronze
+ZIM,Zimbabwe,1,Bronze
+CMR,Cameroon,1,Bronze
+DOM,Dominican Republic,1,Bronze
+SYR,Syria,1,Bronze
+KSA,Saudi Arabia,1,Bronze
+TJK,Tajikistan,1,Bronze
+ZAM,Zambia,1,Bronze
+MOZ,Mozambique,1,Bronze
+SUR,Suriname,1,Bronze
+AFG,Afghanistan,1,Bronze
+BAR,Barbados,1,Bronze
+BER,Bermuda*,1,Bronze
+DJI,Djibouti,1,Bronze
+ERI,Eritrea,1,Bronze
+GUY,Guyana,1,Bronze
+IRQ,Iraq,1,Bronze
+KUW,Kuwait,1,Bronze
+MKD,Macedonia,1,Bronze
+MRI,Mauritius,1,Bronze
+NIG,Niger,1,Bronze
+TOG,Togo,1,Bronze
+PAR,Paraguay,,Bronze
+PER,Peru,,Bronze
+SCG,Serbia,,Bronze
+NAM,Namibia,,Bronze
+SIN,Singapore,,Bronze
+HKG,Hong Kong*,,Bronze
+SRI,Sri Lanka,,Bronze
+TAN,Tanzania,,Bronze
+VIE,Vietnam,,Bronze
+ECU,Ecuador,,Bronze
+LUX,Luxembourg,,Bronze
+AHO,Netherlands Antilles*,,Bronze
+CIV,Cote d'Ivoire,,Bronze
+ISV,Virgin Islands*,,Bronze
+SEN,Senegal,,Bronze
+SUD,Sudan,,Bronze
+TGA,Tonga,,Bronze
+BDI,Burundi,,Bronze
+UAE,United Arab Emirates,,Bronze
+USA,United States,1195,Silver
+URS,Soviet Union,627,Silver
+GBR,United Kingdom,591,Silver
+FRA,France,461,Silver
+GER,Germany,350,Silver
+AUS,Australia,369,Silver
+ITA,Italy,394,Silver
+HUN,Hungary,308,Silver
+SWE,Sweden,349,Silver
+NED,Netherlands,250,Silver
+ROU,Romania,187,Silver
+JPN,Japan,228,Silver
+RUS,Russia,206,Silver
+CAN,Canada,211,Silver
+GDR,East Germany,271,Silver
+POL,Poland,173,Silver
+FIN,Finland,118,Silver
+CHN,China,252,Silver
+FRG,West Germany,167,Silver
+BRA,Brazil,139,Silver
+DEN,Denmark,192,Silver
+BEL,Belgium,167,Silver
+NOR,Norway,199,Silver
+SUI,Switzerland,165,Silver
+BUL,Bulgaria,142,Silver
+KOR,Korea South,191,Silver
+YUG,Yugoslavia,174,Silver
+CUB,Cuba,126,Silver
+TCH,Czechoslovakia,144,Silver
+ESP,Spain,193,Silver
+EUA,Unified team of Germany,100,Silver
+ARG,Argentina,83,Silver
+UKR,Ukraine,38,Silver
+EUN,Unified team,65,Silver
+NZL,New Zealand,27,Silver
+BLR,Belarus,25,Silver
+GRE,Greece,62,Silver
+MEX,Mexico,18,Silver
+AUT,Austria,81,Silver
+LTU,Lithuania,4,Silver
+JAM,Jamaica,40,Silver
+RSA,South Africa,37,Silver
+PAK,Pakistan,45,Silver
+IND,India,16,Silver
+PRK,Korea North,12,Silver
+URU,Uruguay,2,Silver
+NGR,Nigeria,38,Silver
+KEN,Kenya,31,Silver
+TUR,Turkey,23,Silver
+IRI,Iran,15,Silver
+CHI,Chile,9,Silver
+EST,Estonia,9,Silver
+CRO,Croatia,30,Silver
+POR,Portugal,9,Silver
+GHA,Ghana,1,Silver
+KAZ,Kazakhstan,16,Silver
+ETH,Ethiopia,6,Silver
+SRB,Serbia,1,Silver
+TPE,Taiwan,27,Silver
+CZE,Czech Republic,18,Silver
+INA,Indonesia,14,Silver
+TRI,Trinidad and Tobago,8,Silver
+SLO,Slovenia,6,Silver
+GEO,Georgia,2,Silver
+ZZX,Mixed teams,15,Silver
+EGY,Egypt,7,Silver
+MGL,Mongolia,7,Silver
+MAR,Morocco,5,Silver
+THA,Thailand,4,Silver
+RU1,0,7,Silver
+AZE,Azerbaijan,3,Silver
+SVK,Slovakia,11,Silver
+IRL,Ireland,8,Silver
+UZB,Uzbekistan,5,Silver
+ALG,Algeria,2,Silver
+VEN,Venezuela,2,Silver
+COL,Colombia,3,Silver
+PHI,Philippines,2,Silver
+ARM,Armenia,1,Silver
+HAI,Haiti,1,Silver
+BOH,Bohemia,1,Silver
+BAH,Bahamas,9,Silver
+ANZ,Australasia,4,Silver
+ISR,Israel,1,Silver
+PUR,Puerto Rico*,1,Silver
+BWI,British West Indies,,Silver
+LAT,Latvia,11,Silver
+MAS,Malaysia,3,Silver
+MDA,Moldova,3,Silver
+TUN,Tunisia,2,Silver
+ISL,Iceland,15,Silver
+UGA,Uganda,3,Silver
+LIB,Lebanon,2,Silver
+CRC,Costa Rica,1,Silver
+IOP,Independent Olympic Participants (1992),1,Silver
+KGZ,Kyrgyzstan,1,Silver
+PAN,Panama,,Silver
+QAT,Qatar,,Silver
+ZIM,Zimbabwe,4,Silver
+CMR,Cameroon,1,Silver
+DOM,Dominican Republic,1,Silver
+SYR,Syria,1,Silver
+KSA,Saudi Arabia,1,Silver
+TJK,Tajikistan,1,Silver
+ZAM,Zambia,1,Silver
+MOZ,Mozambique,,Silver
+SUR,Suriname,,Silver
+AFG,Afghanistan,,Silver
+BAR,Barbados,,Silver
+BER,Bermuda*,,Silver
+DJI,Djibouti,,Silver
+ERI,Eritrea,,Silver
+GUY,Guyana,,Silver
+IRQ,Iraq,,Silver
+KUW,Kuwait,,Silver
+MKD,Macedonia,,Silver
+MRI,Mauritius,,Silver
+NIG,Niger,,Silver
+TOG,Togo,,Silver
+PAR,Paraguay,17,Silver
+PER,Peru,14,Silver
+SCG,Serbia,14,Silver
+NAM,Namibia,4,Silver
+SIN,Singapore,4,Silver
+HKG,Hong Kong*,2,Silver
+SRI,Sri Lanka,2,Silver
+TAN,Tanzania,2,Silver
+VIE,Vietnam,2,Silver
+ECU,Ecuador,1,Silver
+LUX,Luxembourg,1,Silver
+AHO,Netherlands Antilles*,1,Silver
+CIV,Cote d'Ivoire,1,Silver
+ISV,Virgin Islands*,1,Silver
+SEN,Senegal,1,Silver
+SUD,Sudan,1,Silver
+TGA,Tonga,1,Silver
+BDI,Burundi,,Silver
+UAE,United Arab Emirates,,Silver
